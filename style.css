@@ -10,10 +10,11 @@ h1{
     color: orangered;
 }
 section{
-    display: flex;
+    display:flex;
+    margin-bottom:100px;
 }
 .half-width{
-      width: 50%;
+      width:50%;
       padding-left:5%;
 }
 .half-width img{
@@ -34,4 +35,14 @@ section{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+.dream-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat:no-repeat;
+    background-position: right;
+}
+
+
+
+
+
    
